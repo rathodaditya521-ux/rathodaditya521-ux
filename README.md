@@ -1,7 +1,16 @@
-# Hi, I'm Aditya Rathod 👋
+<div align="center">
 
+# 👋 Hi, I'm Aditya Rathod
 
 ### 🎓 AI & Data Science Engineering Student
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+
+**Dream • Code • Innovate**
+
+*Building Intelligent Solutions for Tomorrow*
+
+</div>
 
 I'm passionate about Artificial Intelligence, Machine Learning and Data Science.
 
