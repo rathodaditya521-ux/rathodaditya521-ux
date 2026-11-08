@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aditya Rathod 👋
 
-<!--
-**rathodaditya521-ux/rathodaditya521-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 AI & Data Science Engineering Student
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 First Year Engineering Student
+- 🌱 Learning Python and Machine Learning
+- 💻 Exploring Web Development
+- 🧠 Interested in AI & Data Science
+- 🎯 Aspiring AI/ML Engineer
+
+## 🛠️ Skills
+- Python
+- C Programming
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+## 📚 Currently Learning
+- Python Programming
+- Data Structures
+- Machine Learning
+- Data Science
+
+## 🎯 Goals
+- Build real-world AI projects
+- Improve coding skills
+- Contribute to Open Source
+- Get an AI/ML Internship
+
+---
+⭐ Thanks for visiting my profile!
