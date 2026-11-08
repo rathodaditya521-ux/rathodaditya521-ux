@@ -44,7 +44,7 @@ I'm passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathodaditya521-ux&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=rathodaditya521-ux&theme=tokyonight)
 
 ---
 ⭐ Keep Learning | Keep Building | Keep Growing
