@@ -35,12 +35,7 @@ I'm passionate about Artificial Intelligence, Machine Learning and Data Science.
 - 🧠 Interested in AI & Data Science
 - 🎯 Aspiring AI/ML Engineer
 
-## 🛠️ Skills
-- Python
-- C Programming
-- HTML & CSS
-- JavaScript
-- Git & GitHub
+
 
 ## 📚 Currently Learning
 - Python Programming
@@ -68,6 +63,29 @@ I'm passionate about Artificial Intelligence, Machine Learning and Data Science.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=rathodaditya521-ux&theme=tokyonight)
+---
+
+## 🚀 Featured Projects
+progress
+### 🛡️ ScamShield AI
+AI-powered suspicious message detection project.
+
+**Tech:** Python | Flask | Machine Learning
+
+### 🎓 Nathalix Finder
+Smart Engineering College Predictor for Maharashtra.
+
+**Tech:** Python | Flask | HTML | CSS | JavaScript
 
 ---
+
+## 📫 Connect With Me
+
+- GitHub: [Aditya Rathod](https://github.com/rathodaditya521-ux)
+- Interested in: AI, Machine Learning & Data Science
+
+---
+
 ⭐ Keep Learning | Keep Building | Keep Growing
+---
+
